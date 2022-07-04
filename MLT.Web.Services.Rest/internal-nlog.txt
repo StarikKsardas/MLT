@@ -1,0 +1,871 @@
+2022-04-06 16:18:26.5992 Info Message Template Auto Format enabled
+2022-04-06 16:18:26.6145 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:18:26.6531 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:18:26.6879 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:18:40.7270 Info Message Template Auto Format enabled
+2022-04-06 16:18:40.7270 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:18:40.7844 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:18:40.8043 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:20:12.0932 Info Message Template Auto Format enabled
+2022-04-06 16:20:12.1041 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:20:12.1477 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:20:12.1664 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:21:39.2489 Info Message Template Auto Format enabled
+2022-04-06 16:21:39.2615 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:21:39.3007 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:21:39.3213 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:22:45.9154 Info Message Template Auto Format enabled
+2022-04-06 16:22:45.9154 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:22:45.9581 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:22:45.9777 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:25:27.5608 Info Message Template Auto Format enabled
+2022-04-06 16:25:27.5691 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:25:27.6062 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:25:27.6245 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:28:50.3673 Info Message Template Auto Format enabled
+2022-04-06 16:28:50.3673 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:28:50.4176 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:28:50.4358 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:29:37.9180 Info Message Template Auto Format enabled
+2022-04-06 16:29:37.9275 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:29:37.9638 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:29:37.9863 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:30:20.2896 Info Message Template Auto Format enabled
+2022-04-06 16:30:20.2896 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:30:20.3330 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:30:20.3548 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:33:00.4683 Info Message Template Auto Format enabled
+2022-04-06 16:33:00.4808 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:33:00.5249 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:33:00.5551 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:44:40.0054 Info Message Template Auto Format enabled
+2022-04-06 16:44:40.0054 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:44:40.0522 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:44:40.0709 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:49:52.3713 Info Message Template Auto Format enabled
+2022-04-06 16:49:52.3988 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:49:52.4392 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:49:52.4603 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:50:57.8567 Info Message Template Auto Format enabled
+2022-04-06 16:50:57.8687 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:50:57.8953 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:50:57.9311 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:53:20.7245 Info Message Template Auto Format enabled
+2022-04-06 16:53:20.7245 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:53:20.7703 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:53:20.7889 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:53:32.8695 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2720, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-06 16:53:32.9048 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2979, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-06 16:54:16.4587 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2720, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-06 16:54:16.4896 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2979, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-06 16:55:04.2440 Info Message Template Auto Format enabled
+2022-04-06 16:55:04.2835 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:55:04.3547 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-06 16:55:04.3936 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-06 16:55:26.3489 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2720, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-06 16:55:26.3804 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2979, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-08 15:30:23.7665 Info Message Template Auto Format enabled
+2022-04-08 15:30:23.7816 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:30:23.8333 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:30:23.8520 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 15:32:45.2672 Info Message Template Auto Format enabled
+2022-04-08 15:32:45.2672 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:32:45.2971 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:32:45.3263 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 15:33:39.9535 Info Message Template Auto Format enabled
+2022-04-08 15:33:39.9535 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:33:39.9993 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:33:40.0164 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 15:39:00.5478 Info Message Template Auto Format enabled
+2022-04-08 15:39:00.5478 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:39:00.5913 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:39:00.6080 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 15:45:43.0115 Info Message Template Auto Format enabled
+2022-04-08 15:45:43.0195 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:45:43.0520 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:45:43.0690 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 15:51:18.8468 Info Message Template Auto Format enabled
+2022-04-08 15:51:18.8468 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:51:18.8934 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:51:18.9108 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 15:52:21.6763 Info Message Template Auto Format enabled
+2022-04-08 15:52:21.6856 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:52:21.7196 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 15:52:21.7384 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 16:11:52.7630 Info Message Template Auto Format enabled
+2022-04-08 16:11:52.7630 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 16:11:52.8118 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 16:11:52.8328 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 16:17:05.9224 Info Message Template Auto Format enabled
+2022-04-08 16:17:05.9224 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 16:17:05.9527 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 16:17:05.9817 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 16:19:15.2544 Info Message Template Auto Format enabled
+2022-04-08 16:19:15.2635 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 16:19:15.2978 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 16:19:15.3159 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 16:21:08.5069 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2720, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-08 16:21:08.5352 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2979, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-08 16:23:17.4845 Info Message Template Auto Format enabled
+2022-04-08 16:23:17.4845 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 16:23:17.5306 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 16:23:17.5500 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-08 16:23:31.5376 Info Message Template Auto Format enabled
+2022-04-08 16:23:31.5460 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 16:23:31.5810 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-08 16:23:31.6016 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\x64\Debug\net5.0\Helpers\nlog.config
+2022-04-11 12:51:12.8101 Info Message Template Auto Format enabled
+2022-04-11 12:51:12.8101 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 12:51:12.8726 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 12:51:12.9075 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 12:53:50.1064 Info Message Template Auto Format enabled
+2022-04-11 12:53:50.1165 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 12:53:50.1386 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 12:53:50.1774 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 13:03:16.7778 Info Message Template Auto Format enabled
+2022-04-11 13:03:16.7872 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 13:03:16.8234 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 13:03:16.8442 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 13:17:59.4639 Info Message Template Auto Format enabled
+2022-04-11 13:17:59.4724 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 13:17:59.5136 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 13:17:59.5521 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 13:19:21.8105 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2753, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:19:21.8295 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 3012, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:20:51.3513 Info Message Template Auto Format enabled
+2022-04-11 13:20:51.3586 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 13:20:51.3937 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 13:20:51.4120 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 13:21:44.9414 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:21:44.9671 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:26:57.2153 Info Message Template Auto Format enabled
+2022-04-11 13:26:57.2238 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 13:26:57.2594 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 13:26:57.2776 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 13:28:36.6141 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:28:36.6394 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:29:40.2203 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 13:29:40.2335 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 14:43:45.3060 Info Message Template Auto Format enabled
+2022-04-11 14:43:45.3153 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 14:43:45.3749 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 14:43:45.3974 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 14:45:01.0800 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 14:45:01.1071 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 14:59:29.3710 Info Message Template Auto Format enabled
+2022-04-11 14:59:29.3793 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 14:59:29.4058 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 14:59:29.4387 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 14:59:49.9369 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 14:59:49.9523 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 15:41:05.4744 Info Message Template Auto Format enabled
+2022-04-11 15:41:05.4829 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 15:41:05.5258 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 15:41:05.5492 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 16:18:27.7249 Info Message Template Auto Format enabled
+2022-04-11 16:18:27.7336 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 16:18:27.7738 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 16:18:27.7934 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 16:21:54.2184 Info Message Template Auto Format enabled
+2022-04-11 16:21:54.2184 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 16:21:54.2716 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 16:21:54.2930 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 16:26:21.7290 Info Message Template Auto Format enabled
+2022-04-11 16:26:21.7390 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 16:26:21.7795 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 16:26:21.8012 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 16:27:39.2647 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 16:27:39.2952 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 16:32:18.1475 Info Message Template Auto Format enabled
+2022-04-11 16:32:18.1564 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 16:32:18.1912 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 16:32:18.2091 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 16:32:55.8416 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 16:32:55.8731 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 16:38:04.6659 Info Message Template Auto Format enabled
+2022-04-11 16:38:04.6739 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 16:38:04.7061 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-11 16:38:04.7229 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-11 16:40:21.7396 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-11 16:40:21.7779 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-13 11:01:38.5143 Info Message Template Auto Format enabled
+2022-04-13 11:01:38.5410 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:01:38.5835 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:01:38.6041 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:04:18.5254 Info Message Template Auto Format enabled
+2022-04-13 11:04:18.5574 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:04:18.6285 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:04:18.6594 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:07:38.0561 Info Message Template Auto Format enabled
+2022-04-13 11:07:38.0645 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:07:38.1147 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:07:38.1430 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:39:28.6810 Info Message Template Auto Format enabled
+2022-04-13 11:39:28.6894 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:39:28.7222 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:39:28.7395 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:47:00.6464 Info Message Template Auto Format enabled
+2022-04-13 11:47:00.6568 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:47:00.6920 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:47:00.7174 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:48:13.7452 Info Message Template Auto Format enabled
+2022-04-13 11:48:13.7547 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:48:13.7787 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:48:13.8113 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:51:21.4982 Info Message Template Auto Format enabled
+2022-04-13 11:51:21.4982 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:51:21.5292 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:51:21.5589 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:52:44.4448 Info Message Template Auto Format enabled
+2022-04-13 11:52:44.4537 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:52:44.4914 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:52:44.5111 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 11:56:02.2436 Info Message Template Auto Format enabled
+2022-04-13 11:56:02.2555 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 11:56:02.2952 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 11:56:02.3216 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:00:24.1345 Info Message Template Auto Format enabled
+2022-04-13 12:00:24.1489 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:00:24.2085 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:00:24.2304 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:03:32.0936 Info Message Template Auto Format enabled
+2022-04-13 12:03:32.0936 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:03:32.1227 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:03:32.1525 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:15:57.5478 Info Message Template Auto Format enabled
+2022-04-13 12:15:57.5478 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:15:57.5945 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:15:57.6136 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:17:21.0721 Info Message Template Auto Format enabled
+2022-04-13 12:17:21.0851 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:17:21.1313 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:17:21.1558 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:20:17.5522 Info Message Template Auto Format enabled
+2022-04-13 12:20:17.5617 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:20:17.5970 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:20:17.6166 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:29:21.4291 Info Message Template Auto Format enabled
+2022-04-13 12:29:21.4382 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:29:21.4744 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:29:21.4919 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 12:39:44.1116 Info Message Template Auto Format enabled
+2022-04-13 12:39:44.1116 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 12:39:44.1407 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 12:39:44.1703 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 15:04:24.1278 Info Message Template Auto Format enabled
+2022-04-13 15:04:24.1278 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 15:04:24.1753 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 15:04:24.1933 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 15:23:08.2847 Info Message Template Auto Format enabled
+2022-04-13 15:23:08.2942 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 15:23:08.3270 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 15:23:08.3454 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 15:39:08.0957 Info Message Template Auto Format enabled
+2022-04-13 15:39:08.1098 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 15:39:08.1510 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 15:39:08.1763 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 15:43:18.1810 Info Message Template Auto Format enabled
+2022-04-13 15:43:18.1887 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 15:43:18.2270 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 15:43:18.2458 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 15:56:32.5439 Info Message Template Auto Format enabled
+2022-04-13 15:56:32.5521 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 15:56:32.5857 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 15:56:32.6042 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-13 15:59:31.7377 Info Message Template Auto Format enabled
+2022-04-13 15:59:31.7377 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-13 15:59:31.7666 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-13 15:59:31.7956 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-29 15:51:41.8411 Info Message Template Auto Format enabled
+2022-04-29 15:51:41.8594 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-29 15:51:41.8805 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-29 15:51:41.9107 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-04-29 15:53:18.0862 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2684, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-29 15:53:18.1201 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2943, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-04-29 15:54:20.7580 Info Message Template Auto Format enabled
+2022-04-29 15:54:20.7580 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-29 15:54:20.8027 Info Adding target DatabaseTarget(Name=Mobile)
+2022-04-29 15:54:20.8227 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-04 11:28:46.4861 Info Message Template Auto Format enabled
+2022-05-04 11:28:46.4861 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-04 11:28:46.5192 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-04 11:28:46.5476 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-04 11:52:28.3668 Info Message Template Auto Format enabled
+2022-05-04 11:52:28.3789 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-04 11:52:28.4130 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-04 11:52:28.4309 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 12:32:11.5431 Info Message Template Auto Format enabled
+2022-05-11 12:32:11.5631 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 12:32:11.6026 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 12:32:11.6230 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 12:32:48.1337 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2064, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-05-11 12:33:57.2135 Info Message Template Auto Format enabled
+2022-05-11 12:33:57.2135 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 12:33:57.2564 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 12:33:57.2789 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 12:34:07.4464 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2064, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-05-11 12:36:20.6856 Info Message Template Auto Format enabled
+2022-05-11 12:36:20.6942 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 12:36:20.7302 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 12:36:20.7493 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 12:36:43.4855 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2064, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-05-11 12:37:34.9162 Info Message Template Auto Format enabled
+2022-05-11 12:37:34.9162 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 12:37:34.9613 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 12:37:34.9798 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 12:37:44.5733 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2064, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-05-11 12:42:37.0015 Info Message Template Auto Format enabled
+2022-05-11 12:42:37.0117 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 12:42:37.0375 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 12:42:37.0657 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 12:43:20.3406 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2064, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-05-11 12:47:42.3977 Info Message Template Auto Format enabled
+2022-05-11 12:47:42.3977 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 12:47:42.4283 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 12:47:42.4570 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 13:16:33.5849 Info Message Template Auto Format enabled
+2022-05-11 13:16:33.5929 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 13:16:33.6258 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 13:16:33.6422 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 13:17:59.8744 Info Message Template Auto Format enabled
+2022-05-11 13:17:59.8744 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 13:17:59.9161 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 13:17:59.9362 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 13:22:27.2899 Info Message Template Auto Format enabled
+2022-05-11 13:22:27.2980 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 13:22:27.3302 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 13:22:27.3482 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 15:00:35.4550 Info Message Template Auto Format enabled
+2022-05-11 15:00:35.4550 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 15:00:35.4988 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 15:00:35.5181 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 15:02:43.9051 Info Message Template Auto Format enabled
+2022-05-11 15:02:43.9051 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 15:02:43.9371 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 15:02:43.9666 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 15:07:28.2375 Info Message Template Auto Format enabled
+2022-05-11 15:07:28.2375 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 15:07:28.2866 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 15:07:28.3034 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 15:09:21.2040 Info Message Template Auto Format enabled
+2022-05-11 15:09:21.2179 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 15:09:21.2515 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 15:09:21.2717 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 15:13:33.5061 Info Message Template Auto Format enabled
+2022-05-11 15:13:33.5149 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 15:13:33.5508 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 15:13:33.5677 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 15:23:18.8489 Info Message Template Auto Format enabled
+2022-05-11 15:23:18.8489 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 15:23:18.8948 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 15:23:18.9138 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 16:32:02.3473 Info Message Template Auto Format enabled
+2022-05-11 16:32:02.3473 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 16:32:02.3957 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 16:32:02.4130 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 16:43:50.5140 Info Message Template Auto Format enabled
+2022-05-11 16:43:50.5140 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 16:43:50.5636 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 16:43:50.5861 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 16:46:27.1027 Info Message Template Auto Format enabled
+2022-05-11 16:46:27.1112 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 16:46:27.1385 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 16:46:27.1704 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-11 16:58:41.7277 Info Message Template Auto Format enabled
+2022-05-11 16:58:41.7357 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-11 16:58:41.7658 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-11 16:58:41.7968 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 11:31:55.8310 Info Message Template Auto Format enabled
+2022-05-13 11:31:55.8465 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 11:31:55.8862 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 11:31:55.9048 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 11:40:12.1282 Info Message Template Auto Format enabled
+2022-05-13 11:40:12.1363 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 11:40:12.1849 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 11:40:12.2048 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 11:43:02.5543 Info Message Template Auto Format enabled
+2022-05-13 11:43:02.5543 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 11:43:02.5862 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 11:43:02.6169 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 12:27:29.0085 Info Message Template Auto Format enabled
+2022-05-13 12:27:29.0085 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 12:27:29.0397 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 12:27:29.0695 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 12:58:16.1013 Info Message Template Auto Format enabled
+2022-05-13 12:58:16.1013 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 12:58:16.1522 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 12:58:16.1747 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 13:07:04.7411 Info Message Template Auto Format enabled
+2022-05-13 13:07:04.7411 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 13:07:04.7909 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 13:07:04.8223 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 13:12:04.5759 Info Message Template Auto Format enabled
+2022-05-13 13:12:04.5849 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 13:12:04.6273 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 13:12:04.6457 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 13:13:53.3089 Info Message Template Auto Format enabled
+2022-05-13 13:13:53.3089 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 13:13:53.3380 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 13:13:53.3670 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 13:22:44.5727 Info Message Template Auto Format enabled
+2022-05-13 13:22:44.5727 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 13:22:44.6184 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 13:22:44.6372 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 13:32:44.5764 Info Message Template Auto Format enabled
+2022-05-13 13:32:44.5764 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 13:32:44.6073 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 13:32:44.6383 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 14:14:35.0504 Info Message Template Auto Format enabled
+2022-05-13 14:14:35.0589 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 14:14:35.0936 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 14:14:35.1124 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 14:26:31.3695 Info Message Template Auto Format enabled
+2022-05-13 14:26:31.3774 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 14:26:31.4325 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 14:26:31.4566 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-13 15:22:25.6769 Info Message Template Auto Format enabled
+2022-05-13 15:22:25.6934 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-13 15:22:25.7300 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-13 15:22:25.7600 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-16 14:27:21.1797 Info Message Template Auto Format enabled
+2022-05-16 14:27:21.1971 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-16 14:27:21.2475 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-16 14:27:21.2682 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-18 12:57:30.2164 Info Message Template Auto Format enabled
+2022-05-18 12:57:30.2344 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-18 12:57:30.2675 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-18 12:57:30.2865 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-18 13:03:53.3981 Info Message Template Auto Format enabled
+2022-05-18 13:03:53.4065 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-18 13:03:53.4381 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-18 13:03:53.4558 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-18 13:04:25.2726 Info Message Template Auto Format enabled
+2022-05-18 13:04:25.2819 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-18 13:04:25.3151 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-18 13:04:25.3326 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-18 16:25:51.4809 Info Message Template Auto Format enabled
+2022-05-18 16:25:51.4896 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-18 16:25:51.5159 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-18 16:25:51.5489 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-18 16:39:56.4223 Info Message Template Auto Format enabled
+2022-05-18 16:39:56.4223 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-18 16:39:56.4701 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-18 16:39:56.4882 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-20 12:41:37.4276 Info Message Template Auto Format enabled
+2022-05-20 12:41:37.4369 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-20 12:41:37.5209 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-20 12:41:37.5400 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-05-20 15:29:12.0875 Info Message Template Auto Format enabled
+2022-05-20 15:29:12.0986 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-20 15:29:12.1447 Info Adding target DatabaseTarget(Name=Mobile)
+2022-05-20 15:29:12.1640 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-01 15:11:53.6958 Info Message Template Auto Format enabled
+2022-06-01 15:11:53.7148 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-01 15:11:53.7504 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-01 15:11:53.7672 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-01 16:22:33.4011 Info Message Template Auto Format enabled
+2022-06-01 16:22:33.4092 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-01 16:22:33.4563 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-01 16:22:33.4733 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-01 16:23:43.3768 Info Message Template Auto Format enabled
+2022-06-01 16:23:43.3768 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-01 16:23:43.4200 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-01 16:23:43.4419 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 11:03:27.4190 Info Message Template Auto Format enabled
+2022-06-06 11:03:27.4402 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:03:27.4813 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:03:27.5002 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 11:10:09.4444 Info Message Template Auto Format enabled
+2022-06-06 11:10:09.4539 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:10:09.4898 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:10:09.5096 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 11:28:32.0387 Info Message Template Auto Format enabled
+2022-06-06 11:28:32.0468 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:28:32.0776 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:28:32.0947 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 11:29:08.5596 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:30:37.5289 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:49:35.1056 Info Message Template Auto Format enabled
+2022-06-06 11:49:35.1056 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:49:35.1444 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:49:35.1614 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 11:49:50.4733 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:50:50.3873 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:52:32.3295 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:52:34.8277 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:52:52.0203 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12899: значение для столбца "DACTOCREATOR"."WEB_MOBILE_LOG"."MESSAGE" слишком велико (фактическое: 2076, максимальное: 2000)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:54:06.0605 Info Message Template Auto Format enabled
+2022-06-06 11:54:06.0605 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:54:06.0909 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:54:06.1217 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 11:59:25.1433 Info Message Template Auto Format enabled
+2022-06-06 11:59:25.1433 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:59:25.1895 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:59:25.2069 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 14:22:37.7722 Info Message Template Auto Format enabled
+2022-06-06 14:22:37.7800 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:22:37.8132 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:22:37.8311 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers/nlog.config
+2022-06-06 14:23:46.8745 Info Message Template Auto Format enabled
+2022-06-06 14:23:46.8745 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:23:46.9032 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:23:46.9309 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers/nlog.config
+2022-06-06 14:24:36.3374 Info Message Template Auto Format enabled
+2022-06-06 14:24:36.3449 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:24:36.3769 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:24:36.3943 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 14:25:14.1244 Info Message Template Auto Format enabled
+2022-06-06 14:25:14.1244 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:25:14.1539 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:25:14.1818 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers/nlog.config
+2022-06-06 14:25:34.0158 Info Message Template Auto Format enabled
+2022-06-06 14:25:34.0158 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:25:34.0466 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:25:34.0750 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers/nlog.config
+2022-06-06 14:27:41.6292 Info Message Template Auto Format enabled
+2022-06-06 14:27:41.6371 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:27:41.6768 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:27:41.6950 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers/nlog.config
+2022-06-06 14:28:51.4588 Info Message Template Auto Format enabled
+2022-06-06 14:28:51.4660 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:28:51.4990 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:28:51.5171 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers\nlog.config
+2022-06-06 14:29:43.2790 Info Message Template Auto Format enabled
+2022-06-06 14:29:43.2790 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 14:29:43.3086 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 14:29:43.3389 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Debug\net5.0\Helpers/nlog.config
+2022-06-06 11:30:27.8331 Info Message Template Auto Format enabled
+2022-06-06 11:30:27.8331 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:30:27.8805 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:30:27.9089 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=/app/bin/Debug/net5.0/Helpers/nlog.config
+2022-06-06 11:30:28.8026 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:30:28.8555 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:30:28.9124 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:30:28.9725 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:46:47.7605 Info Message Template Auto Format enabled
+2022-06-06 11:46:47.7667 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-06 11:46:47.8034 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-06 11:46:47.8314 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=/app/bin/Debug/net5.0/Helpers/nlog.config
+2022-06-06 11:46:49.0577 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:46:49.1354 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:46:49.1936 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:46:49.2951 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:47:05.7799 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:47:05.8412 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-06 11:47:05.8949 Error DatabaseTarget(Name=Mobile): Error when writing to database. Exception: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region not found
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-06-08 12:26:36.3445 Info Message Template Auto Format enabled
+2022-06-08 12:26:36.3445 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:26:36.3920 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:26:36.4106 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config
+2022-06-08 12:27:22.8618 Info Message Template Auto Format enabled
+2022-06-08 12:27:22.8714 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:27:22.9136 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:27:22.9327 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config
+2022-06-08 12:28:45.3462 Info Message Template Auto Format enabled
+2022-06-08 12:28:45.3462 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:28:45.3983 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:28:45.4199 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config
+2022-06-08 12:29:22.7026 Info Message Template Auto Format enabled
+2022-06-08 12:29:22.7026 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:29:22.7465 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:29:22.7718 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config
+2022-06-08 12:33:23.2116 Info Message Template Auto Format enabled
+2022-06-08 12:33:23.2218 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:33:23.2471 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:33:23.2827 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config
+2022-06-08 12:33:40.0718 Info Message Template Auto Format enabled
+2022-06-08 12:33:40.0833 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:33:40.1207 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:33:40.1406 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config
+2022-06-08 12:47:13.6925 Info Message Template Auto Format enabled
+2022-06-08 12:47:13.7008 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-08 12:47:13.7354 Info Adding target DatabaseTarget(Name=Mobile)
+2022-06-08 12:47:13.7533 Info Validating config: TargetNames=Mobile, ConfigItems=26, FilePath=D:\VS2019\MLT\MLT.Web.Services.Rest\bin\Release\net5.0\Helpers/nlog.config

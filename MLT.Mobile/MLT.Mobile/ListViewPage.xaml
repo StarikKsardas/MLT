@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
+             x:Class="MLT.Mobile.ListViewPage" 
+             BackgroundImageSource="Background.png"
+             xmlns:lv="clr-namespace:Xamarin.Forms.MultiSelectListView;assembly=Xamarin.Forms.MultiSelectListView">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView  x:Name="mainListView" ItemsSource="{Binding ShowItems}"  lv:MultiSelect.Enable="true" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <lv:SelectableCell x:Name="SelectableCell">
+                            <lv:SelectableCell.CheckView>
+                                <Image Source="select.png" WidthRequest="20" HeightRequest="20"></Image>
+                            </lv:SelectableCell.CheckView>
+
+                            <lv:SelectableCell.DataView>
+                                <StackLayout Orientation="Vertical" Padding="0,0,0,0">
+                                    <Label Text="{Binding Item}" FontSize="17" />
+                                </StackLayout>
+                            </lv:SelectableCell.DataView>
+
+                        </lv:SelectableCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.Behaviors>
+                    <!--  <lv:SelectedItemBehavior Command="{Binding DisplayNameCommand}" PropertyName="Name"/>-->
+                    <lv:SelectedItemBehavior Command="{Binding DisplayNameCommand}"/>
+                </ListView.Behaviors>
+            </ListView>
+            <Button Text="Подтвердить" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

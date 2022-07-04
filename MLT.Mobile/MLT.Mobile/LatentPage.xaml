@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             x:Class="MLT.Mobile.LatentPage"
+             xmlns:vm="clr-namespace:MLT.Mobile.Models" x:DataType="vm:LatentMobile"
+             BackgroundImageSource="Background.png">
+    <ContentPage.Content >
+        <ScrollView Scrolled="ScrollView_Scrolled">
+            <StackLayout x:Name="fullStack">
+                <StackLayout x:Name="activityStack" IsVisible="false">
+                    <ActivityIndicator x:Name="activityIndicator" IsRunning="True" />
+                </StackLayout>
+                <StackLayout x:Name="mainStack" IsVisible="true">
+                    <Switch x:Name="typeLatentSwitch" IsToggled="{Binding IsPalm}"  HorizontalOptions="Center" Toggled="typeLatentSwitch_Toggled" />
+                    <Label x:Name="latentTypeLabel" Text="След пальца" FontSize="Large" HorizontalOptions="Center"/>
+                    <Entry x:Name="registrationNumberEntry" Text="{Binding RegistrationNumber}"  Placeholder="Рег. номер карточки" Keyboard="Default"/>
+                    <Entry x:Name="latentNumberEntry" Text="{Binding LatentNumber}" Placeholder="Номер следа" Keyboard="Numeric" TextChanged="latentNumberEntry_TextChanged"/>
+                    <Label Text="Дата совершения преступления" Margin="0, 10, 0, 0"/>
+                    <DatePicker x:Name="crimeDatePicker" Format="dd/MM/yyyy" Date="{Binding CrimeDate}">
+                        <DatePicker.MinimumDate>01/01/2019</DatePicker.MinimumDate>
+                    </DatePicker>
+                    <Editor x:Name="crimePlaceEditor" Placeholder="Место совершения преступления" Text="{Binding CrimePlace}" />
+                    <Editor x:Name="injuredLastnamesEditor" Placeholder="Фамилии потерпевших" Text="{Binding InjuredLastnames}"/>
+                    <Entry x:Name="checkedLastnamesEntry" Placeholder="Проверенные непричастные лица" Text="{Binding CheckedLastnames}" />
+                    <Entry x:Name="latentPlaceEntry" Placeholder="Место изьятия следа" Text="{Binding LatentPlace}" />
+                    <Entry x:Name="latentMethodEntry" Placeholder="Способ изьятия следа" Text="{Binding LatentMethod}"  />
+                    <Frame BackgroundColor="Transparent" BorderColor="Black" Margin="10, 0, 10, 0" >
+                        <StackLayout>
+                            <Editor x:Name="entrancePlaceEditor"  IsReadOnly="True" IsVisible="False" />
+                            <Button ClassId="entrancePlaceButton" Text="Добавить место проникновения" IsEnabled="True" Clicked="addClassifier_clicked"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame BackgroundColor="Transparent" BorderColor="Black" Margin="10, 0, 10, 0" >
+                        <StackLayout>
+                            <Editor x:Name="entranceTypeEditor"  IsReadOnly="True" IsVisible="False"/>
+                            <Button ClassId="entranceTypeButton" Text="Добавить способ проникновения" IsEnabled="True" Clicked="addClassifier_clicked"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame BackgroundColor="Transparent" BorderColor="Black" Margin="10, 0, 10, 0">
+                        <StackLayout>
+                            <Editor x:Name="crimeTypeEditor"  IsReadOnly="True" IsVisible="False" />
+                            <Button ClassId="crimeTypeButton" Text="Добавить вид преступления" IsEnabled="True" Clicked="addClassifier_clicked"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame BackgroundColor="Transparent" BorderColor="Black" Margin="10, 0, 10, 0">
+                        <StackLayout>
+                            <Button Text="Сделать фото" Clicked="getPhoto_clicked"/>
+                            <Button Text="Выбрать фото" Clicked="selectPhoto_clicked"/>
+                        </StackLayout>
+                    </Frame>
+                    <Image x:Name="imagePhoto"/>
+                    <Button Text="Отправить" Clicked="sendLatent_clicked" Command="{Binding LatentCommand}"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

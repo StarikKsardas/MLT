@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MLT.Mobile.MainPage"
+             xmlns:vm="clr-namespace:MLT.Mobile.Models" x:DataType="vm:ConnectMoblie"
+             BackgroundImageSource="Background.png">
+
+
+    <StackLayout x:Name="fullStack" >
+        <StackLayout x:Name="activityStack" IsVisible="False">
+            <ActivityIndicator x:Name="activityIndicator" IsRunning="True" />
+        </StackLayout>
+        <StackLayout x:Name="mainStack">
+        <!--<Label Text="{Binding Errors, Mode=TwoWay}" HorizontalOptions="Center" VerticalOptions="Start" TextColor="WhiteSmoke" FontSize="Large"/>-->        
+            <Label x:Name="hasInternet" HorizontalOptions="Center" VerticalOptions="Start" TextColor="WhiteSmoke" FontSize="Large"/>
+            <Label x:Name="connectionType" HorizontalOptions="Center" VerticalOptions="Start" TextColor="WhiteSmoke" FontSize="Large"/>
+            <Entry x:Name="loginEntry" Placeholder="Логин" Text="{Binding Login}" Keyboard="Default" />
+            <Entry x:Name="passwordEntry" IsPassword="True" Text="{Binding Password}" Placeholder="Пароль" Keyboard="Default"/>
+            <Button Text = "Настройки соединения" FontSize="Medium" BorderWidth="1"
+                HorizontalOptions="Fill" VerticalOptions="End"
+                Clicked="ViewConnectionProperties" />
+            <Entry x:Name="uriEntry" Placeholder="IP-адрес или host" Text="{Binding Host}" Keyboard="Default" IsVisible="False"/>
+            <Entry x:Name="portEntry" Placeholder="Порт" Text="{Binding Port}" Keyboard="Numeric" IsVisible="False"/>
+            <Label x:Name="uIdPhone" HorizontalOptions="Center" VerticalOptions="Start" TextColor="Black" FontSize="Large" IsVisible="False" Text="Уникальный ID"/>
+            <Entry x:Name="uIdPhoneEntry" Text="{Binding PhoneId}" IsVisible="False" Focused="uIdPhoneEntry_Focused"/>
+        
+                <Button Text = "Вход" FontSize="Medium" BorderWidth="1"
+                    HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Clicked="TryConnect"
+                    Command="{Binding ConnectCommand}"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

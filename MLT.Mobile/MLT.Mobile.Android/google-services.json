@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747788028391",
+    "project_id": "mobilelatent-d27e7",
+    "storage_bucket": "mobilelatent-d27e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747788028391:android:377e7c6e5a588243235542",
+        "android_client_info": {
+          "package_name": "com.todes.mobilelatent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747788028391-ssp9aamvdriad1gmfuk5skfmukkmu7hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3BzlhOR7ZOeL6j8ofK3vPZN99lnofbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747788028391-ssp9aamvdriad1gmfuk5skfmukkmu7hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+﻿<Window x:Class="MLT.Desktop.AppUsers.AtdForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MLT.Desktop.AppUsers"
+        mc:Ignorable="d"
+        Title="Выбор места" Height="490" Width="400" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label Content="Страна"/>
+            <ComboBox Name="Countries" SelectedValuePath="Code" DisplayMemberPath="Lex" SelectionChanged="All_SelectionChanged"/>
+            <Label Content="Область"/>
+            <ComboBox Name="Regions" SelectedValuePath="Code" DisplayMemberPath="Lex" SelectionChanged="All_SelectionChanged"/>
+            <Label Content="Район"/>
+            <ComboBox Name="Districts" SelectedValuePath="Code" DisplayMemberPath="Lex" SelectionChanged="All_SelectionChanged"/>
+            <Label Content="Населенный пункт"/>
+            <ComboBox Name="Cities" SelectedValuePath="Code" DisplayMemberPath="Lex" SelectionChanged="All_SelectionChanged"/>
+            <Label Content="Код"/>
+            <TextBox Name="TextboxCode" Text="" TextWrapping="Wrap" HorizontalAlignment="Stretch" PreviewKeyDown="TextBox_PreviewKeyDown" PreviewTextInput="TextBox_PreviewTextInput" DataObject.Pasting="TextBox_Pasting"/>
+            <Button Width="132" Height="40" Content="Установить" Margin="0,10,0,0" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click" >
+            </Button>
+            <TextBlock x:Name="FullAtdLabel" TextWrapping="WrapWithOverflow" Height="76"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Width="132" IsDefault="True"  Margin="40,0,0,0" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click_1" ToolTip="Сохранить" >
+                <Image  Source="/Resources/Images/ok.png"/>
+            </Button>
+            <Button Width="132"   Margin="40,0,0,0"  Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" IsCancel="True" ToolTip="Выход">
+                <Image Source="/Resources/Images/No.png"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

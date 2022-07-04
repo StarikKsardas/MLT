@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Images\add.png" />
+    <None Remove="Resources\Images\background.jpg" />
+    <None Remove="Resources\Images\del.png" />
+    <None Remove="Resources\Images\Manage.png" />
+    <None Remove="Resources\Images\No.png" />
+    <None Remove="Resources\Images\ok.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="FluentValidation" Version="10.3.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MLT.Desktop.AppUsers.Contracts\MLT.Desktop.AppUsers.Contracts.csproj" />
+    <ProjectReference Include="..\MLT.Domain.Contracts\MLT.Domain.Contracts.csproj" />
+    <ProjectReference Include="..\MLT.Infrastructure\MLT.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\add.png" />
+    <Resource Include="Resources\Images\background.jpg" />
+    <Resource Include="Resources\Images\del.png" />
+    <Resource Include="Resources\Images\Manage.png" />
+    <Resource Include="Resources\Images\No.png" />
+    <Resource Include="Resources\Images\ok.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Startup.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Startup.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Startup.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Startup.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
